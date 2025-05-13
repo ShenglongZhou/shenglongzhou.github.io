@@ -81,7 +81,7 @@ a:active {
 <font size=4> 
 <div style="text-align:justify">
   
-[20] Shuai Li, Shenglong Zhou, and Ziyan Luo, Sparse quadratically constrained quadratic programming via semismooth Newton method, 2025. 
+[20] Shuai Li, Shenglong Zhou, and Ziyan Luo, Sparse quadratically constrained quadratic programming via semismooth Newton method, 78, 101775, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389974763" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2503.15109" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/SNSQP" target="_blank">Code</a> 
