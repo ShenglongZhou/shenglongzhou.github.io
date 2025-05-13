@@ -81,14 +81,14 @@ a:active {
 <font size=4> 
 <div style="text-align:justify">
   
-[20] Shuai Li, Shenglong Zhou, and Ziyan Luo, Sparse quadratically constrained quadratic programming via semismooth Newton method, 78, 101775, 2025. 
+[20] Shuai Li, Shenglong Zhou, and Ziyan Luo, Sparse quadratically constrained quadratic programming via semismooth Newton method, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389974763" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2503.15109" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/SNSQP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
 [19] Jun Fan, Jie Sun, Ailin Yan, and Shenglong Zhou, An oracle gradient regularized Newton method for quadratic measurements regression, 
-<a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2025.101775" target="_blank">Applied and Computational Harmonic Analysis</a>, 2025. 
+<a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2025.101775" target="_blank">Applied and Computational Harmonic Analysis</a>, 78, 101775, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/358730474" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2202.09651" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
