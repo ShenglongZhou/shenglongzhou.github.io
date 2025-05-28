@@ -27,43 +27,37 @@ a:active {
 
 
 
-<b style="font-size:20px">Employment History</b>
+<b style="font-size:20px">工作经历</b>
 ---
-Professor, 2023 - present <br>
-<a style="color:#015697" href='http://soms.bjtu.edu.cn/' target="_blank">School of Mathematics and Statistics </a>, <a style="color:#015697" href='https://www.bjtu.edu.cn/' target="_blank">Beijing Jiaotong University</a>, China 
+2023-03 至今，北京交通大学，数学与统计学院，教授
 
-Research Fellow, 2021-2023 <br>
-<a href='https://www.imperial.ac.uk/electrical-engineering' target="_blank">Department of EEE</a>,
-<a style="color:#015697" href='https://www.imperial.ac.uk/' target="_blank">Imperial College London</a>, UK <br>
-<br>
-Teaching Fellow, 2020-2021 <br>
-Research Fellow, 2017-2020 <br>
-<a style="color:#015697" href='https://www.southampton.ac.uk/maths' target="_blank">School of Mathematics</a>, <a style="color:#015697" href='https://www.southampton.ac.uk/' target="_blank">University of Southampton</a>, UK <br>
+2021-06 至 2023-03，伦敦帝国理工学院，工程学院，副研究员
+
+2020-02 至 2021-02，英国南安普顿大学，数学学院，讲师
+
+2017-10 至 2020-01，英国南安普顿大学，数学学院，副研究员
 
 
-<b style="font-size:20px">Education Background</b>
+<b style="font-size:20px">教育背景</b>
 ---
-PhD in  Operational Research, 2014-2017 <br>
-School of Mathematics, University of Southampton, UK <br>
-<br>
-MSc in Operational Research, 2011-2014 <br>
-BSc in Information and Computing Sciences, 2007-2011 <br>
-Department of Mathematics, Beijing Jiaotong University, China 
+2014-10 至 2018-12，博士，英国南安普顿大学，运筹学 
+
+2011-09 至 2014-03，硕士，北京交通大学，运筹学与控制论 
+
+2007-09 至 2011-06，学士，北京交通大学， 信息与计算科学 
 
 
-
-<b style="font-size:20px">Research Interests</b> 
+<b style="font-size:20px">研究兴趣</b> 
 ---
-
 <p><div style="text-align:justify;"> 
-My research interests encompass the theory and methods of optimization, including sparse and low-rank optimization, 0/1 loss optimization, and distributed optimization, with applications in artificial intelligence, signal processing, machine learning, etc.
+最优化理论、算法及其应用：包括稀疏低秩、阶跃优化、分布式优化，特别地，对人工智能、机器学习、科学计算等领域中的优化问题感兴趣
+
+招收博士后、博士、以及硕士。欢迎对最优化理论与算法、人工智能、机器学习等领域感兴趣的学生申请  
 </div></p> 
 
-<b style="font-size:20px">Selected Publications</b>
+<b style="font-size:20px">代表性论文</b>
 ---
-
-A full list of publications can be found here -
-<a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://shenglongzhou.github.io/publications/" target="_blank">More Papers</a>
+全部发表文章可参考 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://shenglongzhou.github.io/publications/" target="_blank">全部文章</a>
 
 <font size=4>
 <div style="text-align:justify"> 
@@ -136,18 +130,18 @@ A full list of publications can be found here -
 </div>
 </font> 
 
+<b style="font-size:20px">科研项目</b>
+---
+2023-2028，主持，300万元，国家重点研发计划，海量数据分析中的阶跃稀疏优化理论与方法
 
-<!---
-<p><div style="text-align:justify"> 
- For sparse  optimization, several first-order methods <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">MIRL1</a>, <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/IIHT" target="_blank">IIHT</a> and <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/HTPCP" target="_blank">HTPCP</a>, and second-order methods  <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">NHTP</a>, <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">NL0R</a> and <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">NSSVM</a>, have been developed to solve the compressed sensing, logistic regression, linear complementarity problems, support vector machines, and etc.  
-</div></p>
+2023-2026，主持，100万元，其他部市，机器学习中的0/1损失优化理论与二阶算法研究
 
-<p><div style="text-align:justify">
-For Euclidean distance matrix optimization, the majorization techniques were adopted to design competitively fast algorithms packaged into two solvers <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">PREEEDM</a> and <a style="font-size: 16px; font-weight: bold;  color:#015697" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">SQREDM</a>. 
-</div></p>
+2023-2026，主持，100万元，自然科学类人才基金项目， 联邦学习中的最优化算法理论与应用
 
- <p><div style="text-align:justify">
- For bilevel optimization, a Matlab-based <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://biopt.github.io/" target="_blank">BiOpt Toolbox</a> has been created, aiming at providing a platform on which users can test a wide range collection of bilevel optimization examples from <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://biopt.github.io/" target="_blank">BOLIBver2</a> through three self-provided solvers and several useful tools. 
-</div></p>
+<b style="font-size:20px">获奖与荣誉</b>
+---
+2023年，IEEE MLSP 杰出论文奖
 
---->
+2022年，入选国家级青年人才计划
+
+2019年，新世界数学奖博士论文优胜奖
