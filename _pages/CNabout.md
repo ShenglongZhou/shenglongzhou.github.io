@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: single
 title: ""
-excerpt: "About me"
+permalink: /CNabout/
 author_profile: true
-redirect_from: 
-  - /CNabout/
-  - /CNabout.html
+redirect_from:
+  - /resume
 ---
 
 <style>
