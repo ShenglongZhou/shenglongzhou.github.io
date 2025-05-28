@@ -3,6 +3,9 @@
 main:
   - title: <span style="color:#015697"><b>Home</b></span>
     url: /about/
+
+  - title: <span style="color:#015697"><b>中文主页</b></span>
+    url: /CNabout/    
     
   - title: <span style="color:#015697"><b>Publications</b></span>
     url: /publications/
