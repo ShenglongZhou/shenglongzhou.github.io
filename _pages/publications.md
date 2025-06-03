@@ -213,7 +213,7 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2502.10784" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
-[9] Shan Sha, Shenglong Zhou, Lingchen Kong, and Geoffrey Ye Li, Sparse decentralized federated learning, 2025. 
+[9] Shan Sha, Shenglong Zhou, Lingchen Kong, and Geoffrey Ye Li, Sparse decentralized federated learning, accepted by IEEE Transactions on Signal Processing,  2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389056587" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
