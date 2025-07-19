@@ -223,7 +223,7 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2407.01640" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
   
-[7] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, New environment adaptation with few shots for OFDM receiver and mmWave beamforming, revised by IEEE Transactions on Signal Processing,  2024. 
+[7] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, New environment adaptation with few shots for OFDM receiver and mmWave beamforming, accepted by IEEE Transactions on Signal Processing,  2024. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/374845426" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2310.12343" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
