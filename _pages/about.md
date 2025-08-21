@@ -55,10 +55,16 @@ Department of Mathematics, Beijing Jiaotong University, China
 
 <b style="font-size:20px">Research Interests</b> 
 ---
-
 <p><div style="text-align:justify;"> 
 My research interests encompass the theory and methods of optimization, including sparse and low-rank optimization, 0/1 loss optimization, and distributed optimization, with applications in artificial intelligence, signal processing, machine learning, etc.
 </div></p> 
+
+
+<b style="font-size:20px">Computational Platforms</b> 
+---
+Sparse optimization computational platform - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt.github.io/" target="_blank">SparseOpt</a><br>
+Bilevel optimization computational platform - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://biopt.github.io/" target="_blank">BiOpt</a><br>
+ 
 
 <b style="font-size:20px">Selected Publications</b>
 ---
