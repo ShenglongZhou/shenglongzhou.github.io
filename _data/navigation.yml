@@ -16,13 +16,13 @@ main:
 #  - title: <span style="color:#015697"><b>Presentations</b></span>
 #    url: /presentations/  
     
-  - title: <span style="color:#015697"><b>Toolboxes</b></span>
-    url: /Toolbox/  
+#  - title: <span style="color:#015697"><b>Toolboxes</b></span>
+#    url: /Toolbox/  
     
- # - title: <span style="color:#015697"><b>Talks</b></span>
- #   url: /talks/    
+# - title: <span style="color:#015697"><b>Talks</b></span>
+#   url: /talks/    
 
- # - title: <span style="color:#015697"><b>Teaching</b></span>
- #   url: /teaching/    
+# - title: <span style="color:#015697"><b>Teaching</b></span>
+#   url: /teaching/    
    
   
