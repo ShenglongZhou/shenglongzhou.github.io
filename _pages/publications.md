@@ -207,6 +207,9 @@ a:active {
 
 <font size=4>
 <div style="text-align:justify"> 
+
+[11] Ouya Wang, Hengtao He, Shenglong Zhou, Zhi Ding, Shi Jin, Khaled Letaief, and Geoffrey Ye Li, Fast adaptation for deep learning-based wireless communications, 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11098646" target="_blank">IEEE Communications Magazine</a>, online, 2025. 
   
 [10] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389024585" target="_blank">RG</a>,
