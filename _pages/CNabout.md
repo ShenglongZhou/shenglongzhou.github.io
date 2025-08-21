@@ -48,6 +48,12 @@ a:active {
 招收最优化、人工智能、机器学习等领域博士后、博士、以及硕士
 </div></p> 
 
+<b style="font-size:20px">计算平台</b>
+---
+
+稀疏优化计算平台 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt.github.io/" target="_blank">SparseOpt</a><br>
+双层规划计算平台 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://biopt.github.io/" target="_blank">BiOpt</a>
+
 <b style="font-size:20px">代表性论文</b>
 ---
 全部发表文章可参考 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://shenglongzhou.github.io/publications/" target="_blank">全部文章</a>
