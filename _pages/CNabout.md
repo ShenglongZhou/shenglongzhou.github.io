@@ -51,8 +51,8 @@ a:active {
 <b style="font-size:20px">计算平台</b>
 ---
 
-稀疏优化计算平台 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt.github.io/" target="_blank">SparseOpt</a><br>
-双层规划计算平台 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://biopt.github.io/" target="_blank">BiOpt</a>
+稀疏优化计算平台 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt.github.io/" target="_blank">SparseOpt Toolbox</a><br>
+双层规划计算平台 - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://biopt.github.io/" target="_blank">BiOpt Toolbox</a>
 
 <b style="font-size:20px">代表性论文</b>
 ---
