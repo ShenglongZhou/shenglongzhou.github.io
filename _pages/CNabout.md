@@ -81,21 +81,21 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NSSVM" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[7] Shenglong Zhou, Gradient projection newton pursuit for sparsity constrained optimization, 
+[7] Shenglong Zhou, Gradient projection Newton pursuit for sparsity constrained optimization, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2022.06.002" target="_blank">Applied and Computational Harmonic Analysis</a>, 61, 75-100, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/360476606" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2205.04580" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPNP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[6] Shenglong Zhou, Ziyan Luo, Naihua Xiu and Geoffrey Ye Li, Computing one-bit compressive sensing via double-sparsity constrained optimization, 
+[6] Shenglong Zhou, Ziyan Luo, Naihua Xiu, and Geoffrey Ye Li, Computing one-bit compressive sensing via double-sparsity constrained optimization, 
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/9729395" target="_blank">IEEE Transactions on Signal Processing</a>, 70, 1593-1608, 2022.
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/348371863" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2101.03599" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPSP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[5] Shenglong Zhou, Lili Pan, Naihua Xiu and Huoduo Qi, Quadratic convergence of smoothing Newton's method for 0/1 loss optimization, 
+[5] Shenglong Zhou, Lili Pan, Naihua Xiu, and Huoduo Qi, Quadratic convergence of smoothing Newton's method for 0/1 loss optimization, 
 <a style="font-style: italic; color:#015697" href="https://epubs.siam.org/doi/abs/10.1137/21M1409445" target="_blank">SIAM Journal on Optimization</a>, 31, 3184–3211, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/354744779" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>,
@@ -109,19 +109,19 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
 
-[3] Shenglong Zhou, Naihua Xiu and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
+[3] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
 <a style="font-style: italic; color:#015697" href="https://jmlr.org/papers/v22/19-026.html" target="_blank">Journal of Machine Learning Research</a>, 22, 1−45, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/330224407" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
   
-[2] Shenglong Zhou, Naihua Xiu and Huoduo Qi, Robust Euclidean embedding via EDM optimization,
+[2] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Robust Euclidean embedding via EDM optimization,
 <a style="font-style: italic; color:#015697"  href="https://link.springer.com/article/10.1007/s12532-019-00168-0" target="_blank">Mathematical Programming Computation</a>, 12, 337–387, 2019. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
 
-[1] Shenglong Zhou, Naihua Xiu and Huoduo Qi, A fast matrix majorization-projection method for penalized stress minimization with box constraints, 
+[1] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, A fast matrix majorization-projection method for penalized stress minimization with box constraints, 
 <a style="font-style: italic; color:#015697"   href="https://ieeexplore.ieee.org/document/8399531" target="_blank">IEEE Transactions on Signal Processing</a>, 66, 4331-4346, 2018. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
