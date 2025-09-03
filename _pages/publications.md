@@ -208,18 +208,19 @@ a:active {
 <font size=4>
 <div style="text-align:justify"> 
 
-[11] Ouya Wang, Hengtao He, Shenglong Zhou, Zhi Ding, Shi Jin, Khaled Letaief, and Geoffrey Ye Li, Fast adaptation for deep learning-based wireless communications, 
+[11] Shan Sha, Shenglong Zhou, Lingchen Kong, and Geoffrey Ye Li, Sparse decentralized federated learning, 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11145909" target="_blank">IEEE Transactions on Signal Processing</a>, online, 2025. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389056587" target="_blank">RG</a>, 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
+<p style="line-height: 1;"></p>
+
+[10] Ouya Wang, Hengtao He, Shenglong Zhou, Zhi Ding, Shi Jin, Khaled Letaief, and Geoffrey Ye Li, Fast adaptation for deep learning-based wireless communications, 
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11098646" target="_blank">IEEE Communications Magazine</a>, online, 2025. 
 <p style="line-height: 1;"></p>
 
-[10] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, 2025. 
+[9] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389024585" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2502.10784" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
-
-[9] Shan Sha, Shenglong Zhou, Lingchen Kong, and Geoffrey Ye Li, Sparse decentralized federated learning, accepted by IEEE Transactions on Signal Processing,  2025. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389056587" target="_blank">RG</a>, 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
 [8] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, BADM: Batch ADMM for deep learning, 2024. 
