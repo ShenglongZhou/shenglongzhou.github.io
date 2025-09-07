@@ -62,8 +62,8 @@ My research interests encompass the theory and methods of optimization, includin
 
 <b style="font-size:20px">Computational Platforms</b> 
 ---
-Sparse optimization computational platform - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt.github.io/" target="_blank">SparseOpt Toolbox</a>-English, <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt-cn.github.io/" target="_blank">SparseOpt Toolbox</a>-Chinese<br>
-Bilevel optimization computational platform - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://biopt.github.io/" target="_blank">BiOpt Toolbox</a><br>
+Sparse optimization computation platform - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt.github.io/" target="_blank">SparseOpt Toolbox</a>-English, <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://sparseopt-cn.github.io/" target="_blank">SparseOpt Toolbox</a>-Chinese<br>
+Bilevel optimization computation platform - <a style="font-size: 16px; font-weight: bold; color:#015697"  href="https://biopt.github.io/" target="_blank">BiOpt Toolbox</a><br>
  
 
 <b style="font-size:20px">Selected Publications</b>
