@@ -214,25 +214,25 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
-[10] Ouya Wang, Hengtao He, Shenglong Zhou, Zhi Ding, Shi Jin, Khaled Letaief, and Geoffrey Ye Li, Fast adaptation for deep learning-based wireless communications, 
-<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11098646" target="_blank">IEEE Communications Magazine</a>, online, 2025. 
-<p style="line-height: 1;"></p>
-
-[9] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, 2025. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389024585" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2502.10784" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
-
-[8] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, BADM: Batch ADMM for deep learning, 2024. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/381922655" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2407.01640" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
-  
-[7] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, New environment adaptation with few shots for OFDM receiver and mmWave beamforming, accepted by IEEE Transactions on Signal Processing,  2024. 
+[10] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Frameworks on Few-Shot Learning with Applications in Wireless Communication, <a style="font-style: italic; color:#015697" href=" " target="_blank">IEEE Transactions on Signal Processing</a>,  2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/374845426" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2310.12343" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
+[9] Ouya Wang, Hengtao He, Shenglong Zhou, Zhi Ding, Shi Jin, Khaled Letaief, and Geoffrey Ye Li, Fast adaptation for deep learning-based wireless communications, 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11098646" target="_blank">IEEE Communications Magazine</a>, online, 2025. 
+<p style="line-height: 1;"></p>
+
+[8] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, 2025. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389024585" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2502.10784" target="_blank">ArXiv</a>
+<p style="line-height: 1;"></p>
+
+[7] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, BADM: Batch ADMM for deep learning, 2024. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/381922655" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2407.01640" target="_blank">ArXiv</a>
+<p style="line-height: 1;"></p>
+  
 [6] Shenglong Zhou and Geoffrey Ye Li, Federated learning via inexact ADMM,
 <a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10040221" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>, 45, 9699-9708, 2023. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/360164168" target="_blank">RG</a>,
@@ -253,17 +253,18 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2310.09858" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
-<details>
-<summary><span style="color:#015697"><b style="font-size:16px">Click for more papers</b></span></summary>
-<p style="line-height: 1;"></p> 
-
 [3] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Rescale-invariant federated reinforcement learning for resource allocation in V2X networks, 
 <a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10736393" target="_blank">IEEE Communications Letters</a>, 1-5, 2024. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/385267344" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2405.01961" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p> 
 
-[2] Shenglong Zhou and Geoffrey Ye Li, Exact penalty method for federated learning, 2022. 
+[2] Xinyu Wei, Biing-Hwang Fred Juang, Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Accretionary learning with deep neural networks,
+ <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/10361279" target="_blank">IEEE Transactions on Cognitive Communications and Networking </a>, 2023.
+ <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/340769764" target="_blank">RG</a>,
+ <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2111.10857" target="_blank">ArXiv</a>
+ 
+[1] Shenglong Zhou and Geoffrey Ye Li, Exact penalty method for federated learning, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/362932026" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2208.11231" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/FedEPM" target="_blank">Code</a>
@@ -282,13 +283,6 @@ a:active {
 <p style="line-height: 1;"></p>
 --->
   
-[1] Xinyu Wei, Biing-Hwang Fred Juang, Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Accretionary learning with deep neural networks,
- <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/10361279" target="_blank">IEEE Transactions on Cognitive Communications and Networking </a>, 2023.
- <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/340769764" target="_blank">RG</a>,
- <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2111.10857" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
-
-</details>
 </div>
 </font> 
 
