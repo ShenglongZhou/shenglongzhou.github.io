@@ -209,7 +209,7 @@ a:active {
 <div style="text-align:justify"> 
 
 [11] Shan Sha, Shenglong Zhou, Lingchen Kong, and Geoffrey Ye Li, Sparse decentralized federated learning, 
-<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11145909" target="_blank">IEEE Transactions on Signal Processing</a>, online, 2025. 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11145909" target="_blank">IEEE Transactions on Signal Processing</a>, 73, 3406-3420, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389056587" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
