@@ -262,13 +262,13 @@ a:active {
 [2] Xinyu Wei, Biing-Hwang Fred Juang, Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Accretionary learning with deep neural networks,
  <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/10361279" target="_blank">IEEE Transactions on Cognitive Communications and Networking </a>, 2023.
  <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/340769764" target="_blank">RG</a>,
- <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2111.10857" target="_blank">ArXiv</a></p>
+ <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2111.10857" target="_blank">ArXiv</a>
+ <p style="line-height: 1;"></p>
  
 [1] Shenglong Zhou and Geoffrey Ye Li, Exact penalty method for federated learning, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/362932026" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2208.11231" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/FedEPM" target="_blank">Code</a>
-<p style="line-height: 1;"> 
 
  <!--- 
 [2] Hui Zhang, Shenglong Zhou, Naihua Xiu, and Geoffrey Ye Li, 0/1 Deep neural networks via block coordinate descent, 2022.
