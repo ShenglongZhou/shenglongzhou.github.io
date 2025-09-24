@@ -248,7 +248,7 @@ a:active {
 <p style="line-height: 1;"></p>  
 
 [4] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Federated reinforcement learning for resource allocation in V2X networks, 
-<a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10804630" target="_blank">IEEE Journal of Selected Topics in Signal Processing</a>, 18，1210-1221, 2024. 
+<a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10804630" target="_blank">IEEE Journal of Selected Topics in Signal Processing</a>, 18, 1210-1221, 2024. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/387143542" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2310.09858" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
