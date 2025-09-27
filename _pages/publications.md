@@ -214,7 +214,7 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
-[10] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Frameworks on Few-Shot Learning with Applications in Wireless Communication, <a style="font-style: italic; color:#015697" href=" " target="_blank">IEEE Transactions on Signal Processing</a>,  2025. 
+[10] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Frameworks on Few-Shot Learning with Applications in Wireless Communication, <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11181223" target="_blank">IEEE Transactions on Signal Processing</a>, online, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/374845426" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2310.12343" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
