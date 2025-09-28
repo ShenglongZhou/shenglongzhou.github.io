@@ -24,10 +24,14 @@ a:active {
 }
 </style>
 
-## <b style="font-size:20px"> 0/1 Loss Optimization</b>
+## <b style="font-size:20px"> Step / 0/1 loss Optimization</b>
 
 <font size=4>
 <div style="text-align:justify"> 
+[7] Shenglong Zhou*, Shuai Li, Hui Zhang, and Ziyan Luo, Sharp-peak functions for exactly penalizing binary integer programming, 2025. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/395115093" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2509.00895" target="_blank">ArXiv</a>
+<p style="line-height: -0.5"></p>
   
 [6] Shenglong Zhou, Lili Pan, Naihua Xiu, and Geoffrey Ye Li, A 0/1 constrained optimization solving sample average approximation for chance constrained programming, <a style="font-style: italic; color:#015697" href="https://pubsonline.informs.org/doi/10.1287/moor.2023.0149" target="_blank">Mathematics of Operations Research</a>, 2024. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/364588009" target="_blank">RG</a>,
