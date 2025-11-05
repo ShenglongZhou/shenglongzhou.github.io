@@ -24,7 +24,7 @@ a:active {
 }
 </style>
 
-## <b style="font-size:20px"> Step / 0/1 loss Optimization</b>
+## <b style="font-size:20px"> Step (0/1 Loss) Optimization</b>
 
 <font size=4>
 <div style="text-align:justify"> 
