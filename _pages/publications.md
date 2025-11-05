@@ -230,7 +230,7 @@ a:active {
 <p style="line-height: 1;"></p>
 
 [8] Ouya Wang, Hengtao He, Shenglong Zhou, Zhi Ding, Shi Jin, Khaled Letaief, and Geoffrey Ye Li, Fast adaptation for deep learning-based wireless communications, 
-<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11098646" target="_blank">IEEE Communications Magazine</a>, online, 2025. 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11098646" target="_blank">IEEE Communications Magazine</a>, 63, 158-164, 2025. 
 <p style="line-height: 1;"></p>
 
 [7] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, BADM: Batch ADMM for deep learning, 2024. 
