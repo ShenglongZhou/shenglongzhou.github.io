@@ -212,7 +212,7 @@ a:active {
 <font size=4>
 <div style="text-align:justify"> 
   
-[11] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, accepted by Nature Machine Intelligence, 2025. 
+[11] Shenglong Zhou, Ouya Wang, Ziyan Luo, Yongxu Zhu, and Geoffrey Ye Li, Preconditioned inexact stochastic ADMM for deep models, accepted by <a style="font-style: italic; color:#015697" href=" " target="_blank">Nature Machine Intelligence</a>, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389024585" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2502.10784" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/Tracy-Wang7/PISA" target="_blank">Code</a>
