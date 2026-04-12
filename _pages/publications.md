@@ -98,41 +98,28 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2202.09651" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
-[18] Shenglong Zhou, Xianchao Xiu, Yingnan Wang, and Dingtao Peng, Revisiting Lq (0<=q<1) norm regularized optimization, 2023. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/371855733" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2306.14394" target="_blank">ArXiv</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/PNPLq" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
-
-[17] Shenglong Zhou, Gradient projection newton pursuit for sparsity constrained optimization, 
+[18] Shenglong Zhou, Gradient projection newton pursuit for sparsity constrained optimization, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2022.06.002" target="_blank">Applied and Computational Harmonic Analysis</a>, 61, 75-100, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/360476606" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2205.04580" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPNP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[16] Shenglong Zhou, Sparse SVM for sufficient data reduction, 
+[17] Shenglong Zhou, Sparse SVM for sufficient data reduction, 
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/9415153" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>, 44, 5560-5571, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/351035522" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2005.13771" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NSSVM" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[15] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
+[16] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
 <a style="font-style: italic; color:#015697" href="https://jmlr.org/papers/v22/19-026.html" target="_blank">Journal of Machine Learning Research</a>, 22, 1−45, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/330224407" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
-  
-[14] Shenglong Zhou, Lili Pan, and Naihua Xiu, Newton method for L0-regularized optimization,
-<a style="font-style: italic; color:#015697" href="https://doi.org/10.1007/s11075-021-01085-x" target="_blank">Numerical Algorithms</a>, 88, 1541–1570, 2021.
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/340563338" target="_blank">RG</a>, 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2004.05132" target="_blank">ArXiv</a>, 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NL0R" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
-  
-[13] Shenglong Zhou, Lili Pan, Mu Li, and Meijuan Shang, Newton hard-thresholding pursuit for sparse linear complementarity problem via a new merit function, 
+   
+[15] Shenglong Zhou, Lili Pan, Mu Li, and Meijuan Shang, Newton hard-thresholding pursuit for sparse linear complementarity problem via a new merit function, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1137/19M1301539" target="_blank">SIAM Journal on Scientific Computing</a>, 43, A772–A799, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/337948990" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2004.02244" target="_blank">ArXiv</a>,
@@ -143,10 +130,23 @@ a:active {
 <summary><span style="color:#015697"><b style="font-size:16px">Click for more papers</b></span></summary>
 <p style="line-height: 1;"></p> 
   
+[14] Shenglong Zhou, Lili Pan, and Naihua Xiu, Newton method for L0-regularized optimization,
+<a style="font-style: italic; color:#015697" href="https://doi.org/10.1007/s11075-021-01085-x" target="_blank">Numerical Algorithms</a>, 88, 1541–1570, 2021.
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/340563338" target="_blank">RG</a>, 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2004.05132" target="_blank">ArXiv</a>, 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NL0R" target="_blank">Code</a> 
+<p style="line-height: 1;"></p>
+
+[13] Shenglong Zhou, Xianchao Xiu, Yingnan Wang, and Dingtao Peng, Revisiting Lq (0<=q<1) norm regularized optimization, 2023. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/371855733" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2306.14394" target="_blank">ArXiv</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/PNPLq" target="_blank">Code</a> 
+<p style="line-height: 1;"></p>
+
 [12] Jun Sun, Lingchen Kong, and Shenglong Zhou, Gradient projection Newton algorithm for sparse collaborative learning, 
-  <a style="font-style: italic; color:#015697" href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722004708" target="_blank">Journal of Computational and Applied Mathematics</a>, 422, 1-20, 2022. 
+<a style="font-style: italic; color:#015697" href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722004708" target="_blank">Journal of Computational and Applied Mathematics</a>, 422, 1-20, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/351985058" target="_blank">RG</a>,
- <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2108.06605" target="_blank">ArXiv</a>
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2108.06605" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
   
 [11] Rui Wang, Naihua Xiu, and  Shenglong Zhou, An extended Newton-type algorithm for L2-regularized sparse logistic regression and its efficiency for classifying large-scale datasets,
