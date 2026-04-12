@@ -64,7 +64,7 @@ a:active {
 <summary><span style="color:#015697"><b style="font-size:16px">Click for more papers</b></span></summary>
 <p style="line-height: 1;"></p> 
 
-[3]	Dongrui Wang, Naihua Xiu, Shenglong Zhou, Optimality Conditions for Double-sparsity Constrained Optimization, 
+[3]	Dongrui Wang, Naihua Xiu, Shenglong Zhou, Optimality conditions for double-sparsity constrained optimization, 
 <a style="font-style: italic; color:#015697" href="https://ccj.pku.edu.cn/Article/info?aid=631111510810693" target="_blank">Advances in Mathematics (China)</a>, 53(6), 1-13, 2024.
 <p style="line-height: 1;"></p> 
  
