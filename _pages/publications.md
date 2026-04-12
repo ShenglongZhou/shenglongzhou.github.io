@@ -222,7 +222,7 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/Tracy-Wang7/PISA" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
 
-[11] Shan Sha, Shenglong Zhou*, Xin Wang, Lingchen Kong, Geoffrey Ye Li, Decentralized federated learning by partial message exchange, 2026.
+[11] Shan Sha, Shenglong Zhou, Xin Wang, Lingchen Kong, Geoffrey Ye Li, Decentralized federated learning by partial message exchange, 2026.
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/401428955" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2603.01730" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
