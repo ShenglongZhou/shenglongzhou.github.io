@@ -65,8 +65,9 @@ a:active {
 <p style="line-height: 1;"></p> 
 
 [3]	Dongrui Wang, Naihua Xiu, Shenglong Zhou, Optimality Conditions for Double-sparsity Constrained Optimization, 
- <a style="font-style: italic; color:#015697" href="https://ccj.pku.edu.cn/Article/info?aid=631111510810693" target="_blank">Advances in Mathematics (China)</a>, 53(6), 1-13, 2024.
-  
+<a style="font-style: italic; color:#015697" href="https://ccj.pku.edu.cn/Article/info?aid=631111510810693" target="_blank">Advances in Mathematics (China)</a>, 53(6), 1-13, 2024.
+<p style="line-height: 1;"></p> 
+ 
 [2] Hui Zhang, Shenglong Zhou, Geoffrey Ye Li, Naihua Xiu, and Yiju Wang,  A step function based recursion method for 0/1 deep neural networks,
  <a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.amc.2024.129129" target="_blank">Applied Mathematics and Computation</a>, 488, 1-16, 2025. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/361411821" target="_blank">RG</a>,
