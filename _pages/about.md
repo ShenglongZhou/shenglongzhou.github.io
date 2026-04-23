@@ -149,18 +149,17 @@ A full list of publications can be found here -
 </div>
 </font> 
 
+<hr style="margin-top: 0em;">
 
-<!---
-<p><div style="text-align:justify"> 
- For sparse  optimization, several first-order methods <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">MIRL1</a>, <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/IIHT" target="_blank">IIHT</a> and <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/HTPCP" target="_blank">HTPCP</a>, and second-order methods  <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">NHTP</a>, <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">NL0R</a> and <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">NSSVM</a>, have been developed to solve the compressed sensing, logistic regression, linear complementarity problems, support vector machines, and etc.  
-</div></p>
+<div id="footer" style="text-align: right; font-size: 0.9em; color: #666;">
+  <div id="footer-text"></div>
 
-<p><div style="text-align:justify">
-For Euclidean distance matrix optimization, the majorization techniques were adopted to design competitively fast algorithms packaged into two solvers <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">PREEEDM</a> and <a style="font-size: 16px; font-weight: bold;  color:#015697" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">SQREDM</a>. 
-</div></p>
+  <span style="color: #888;">
+    Total Views: <span id="busuanzi_value_site_pv"></span> &ensp;| &ensp;
+    Unique Visitors: <span id="busuanzi_value_site_uv"></span>
+  </span>
+  
+  <br><br>
+</div>
 
- <p><div style="text-align:justify">
- For bilevel optimization, a Matlab-based <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://biopt.github.io/" target="_blank">BiOpt Toolbox</a> has been created, aiming at providing a platform on which users can test a wide range collection of bilevel optimization examples from <a style="font-size: 16px; font-weight: bold; color:#015697" href="https://biopt.github.io/" target="_blank">BOLIBver2</a> through three self-provided solvers and several useful tools. 
-</div></p>
-
---->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
