@@ -146,3 +146,18 @@ a:active {
 2023年，IEEE MLSP 杰出论文奖 <br>
 2022年，入选国家级青年人才计划 <br>
 2019年，新世界数学奖博士论文优胜奖
+
+<hr style="margin-top: 0em;">
+
+<div id="footer" style="text-align: right; font-size: 0.9em; color: #666;">
+  <div id="footer-text"></div>
+
+  <span style="color: #888;">
+    总访问量: <span id="busuanzi_value_site_pv"></span> &ensp;| &ensp;
+    独立访客: <span id="busuanzi_value_site_uv"></span>
+  </span>
+  
+  <br><br>
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
