@@ -224,7 +224,7 @@ a:active {
 <p style="line-height: 1;"></p>
 
 [12] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Neural collapse based deep supervised federated learning for signal detection in OFDM systems,
-<a style="font-style: italic; color:#015697" href="https://shenglongzhou.github.io/publications/" target="_blank">IEEE Transactions on Signal Processing</a>, 2026. 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11494976" target="_blank">IEEE Transactions on Signal Processing</a>, 2026. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/401622696" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2506.19476" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
