@@ -108,32 +108,32 @@ A full list of publications can be found here -
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPNP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[5] Shenglong Zhou, Ziyan Luo, Naihua Xiu, and Geoffrey Ye Li, Computing one-bit compressive sensing via double-sparsity constrained optimization, 
-<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/9729395" target="_blank">IEEE Transactions on Signal Processing</a>, 70, 1593-1608, 2022.
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/348371863" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2101.03599" target="_blank">ArXiv</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPSP" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
-  
-[4] Shenglong Zhou, Lili Pan, Naihua Xiu, and Huoduo Qi, Quadratic convergence of smoothing Newton's method for 0/1 loss optimization, 
+[5] Shenglong Zhou, Lili Pan, Naihua Xiu, and Huoduo Qi, Quadratic convergence of smoothing Newton's method for 0/1 loss optimization, 
 <a style="font-style: italic; color:#015697" href="https://epubs.siam.org/doi/abs/10.1137/21M1409445" target="_blank">SIAM Journal on Optimization</a>, 31, 3184–3211, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/354744779" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NM01" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
 
-[3] Shenglong Zhou, Lili Pan, Mu Li, and Meijuan Shang, Newton hard-thresholding pursuit for sparse linear complementarity problem via a new merit function, 
+[4] Shenglong Zhou, Lili Pan, Mu Li, and Meijuan Shang, Newton hard-thresholding pursuit for sparse linear complementarity problem via a new merit function, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1137/19M1301539" target="_blank">SIAM Journal on Scientific Computing</a>, 43, A772–A799, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/337948990" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2004.02244" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
 
-[2] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
+[3] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
 <a style="font-style: italic; color:#015697" href="https://jmlr.org/papers/v22/19-026.html" target="_blank">Journal of Machine Learning Research</a>, 22, 1−45, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/330224407" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a>
+<p style="line-height: 1;"></p>
+
+2] Shenglong Zhou, Ziyan Luo, Naihua Xiu, and Geoffrey Ye Li, Computing one-bit compressive sensing via double-sparsity constrained optimization, 
+<a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/9729395" target="_blank">IEEE Transactions on Signal Processing</a>, 70, 1593-1608, 2022.
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/348371863" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2101.03599" target="_blank">ArXiv</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPSP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
 
 [1] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, A fast matrix majorization-projection method for penalized stress minimization with box constraints, 
