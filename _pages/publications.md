@@ -88,46 +88,46 @@ a:active {
 
 <font size=4> 
 <div style="text-align:justify">
-  
-[20] Shuai Li, Shenglong Zhou, and Ziyan Luo, Sparse quadratically constrained quadratic programming via semismooth Newton method, 
-<a style="font-style: italic; color:#015697" href="https://link.springer.com/article/10.1007/s12532-026-00317-2" target="_blank">Mathematical Programming Computation</a>, 2026. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389974763" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2503.15109" target="_blank">ArXiv</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/SNSQP" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
-  
-[19] Jun Fan, Jie Sun, Ailin Yan, and Shenglong Zhou, An oracle gradient regularized Newton method for quadratic measurements regression, 
-<a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2025.101775" target="_blank">Applied and Computational Harmonic Analysis</a>, 78, 101775, 2025. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/358730474" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2202.09651" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
 
-[18] Shenglong Zhou, Gradient projection newton pursuit for sparsity constrained optimization, 
+[20] Shenglong Zhou, Gradient projection newton pursuit for sparsity constrained optimization, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2022.06.002" target="_blank">Applied and Computational Harmonic Analysis</a>, 61, 75-100, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/360476606" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2205.04580" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/GPNP" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[17] Shenglong Zhou, Sparse SVM for sufficient data reduction, 
+[19] Shenglong Zhou, Sparse SVM for sufficient data reduction, 
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/9415153" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>, 44, 5560-5571, 2022. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/351035522" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2005.13771" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NSSVM" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
   
-[16] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
+[18] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Global and quadratic convergence of Newton hard-thresholding pursuit, 
 <a style="font-style: italic; color:#015697" href="https://jmlr.org/papers/v22/19-026.html" target="_blank">Journal of Machine Learning Research</a>, 22, 1−45, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/330224407" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
    
-[15] Shenglong Zhou, Lili Pan, Mu Li, and Meijuan Shang, Newton hard-thresholding pursuit for sparse linear complementarity problem via a new merit function, 
+[17] Shenglong Zhou, Lili Pan, Mu Li, and Meijuan Shang, Newton hard-thresholding pursuit for sparse linear complementarity problem via a new merit function, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1137/19M1301539" target="_blank">SIAM Journal on Scientific Computing</a>, 43, A772–A799, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/337948990" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2004.02244" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a> 
+<p style="line-height: 1;"></p>
+
+[16] Shuai Li, Shenglong Zhou, and Ziyan Luo, Sparse quadratically constrained quadratic programming via semismooth Newton method, 
+<a style="font-style: italic; color:#015697" href="https://link.springer.com/article/10.1007/s12532-026-00317-2" target="_blank">Mathematical Programming Computation</a>, 2026. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/389974763" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2503.15109" target="_blank">ArXiv</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/SNSQP" target="_blank">Code</a> 
+<p style="line-height: 1;"></p>
+  
+[15] Jun Fan, Jie Sun, Ailin Yan, and Shenglong Zhou, An oracle gradient regularized Newton method for quadratic measurements regression, 
+<a style="font-style: italic; color:#015697" href="https://doi.org/10.1016/j.acha.2025.101775" target="_blank">Applied and Computational Harmonic Analysis</a>, 78, 101775, 2025. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/358730474" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2202.09651" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
 <details>
