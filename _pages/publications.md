@@ -319,6 +319,7 @@ a:active {
 
 <font size=4> 
 <div style="text-align:justify">   
+  
 [3] Shenglong Zhou, Naihua Xiu, and Huoduo Qi, Robust Euclidean embedding via EDM optimization,
 <a style="font-style: italic; color:#015697"  href="https://link.springer.com/article/10.1007/s12532-019-00168-0" target="_blank">Mathematical Programming Computation</a>, 12, 337–387, 2019. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">Code</a> 
@@ -344,10 +345,11 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/338375731" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1812.00230" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://biopt.github.io/bolib/" target="_blank">Code</a> 
+<p style="line-height: 1;"></p>
   
 [3] Joydeep Dutta, Lafhim Lahoussine, Alain B. Zemkoho, and Shenglong Zhou, Nonconvex quasi-variational inequalities: stability analysis and application to numerical optimization, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1007/s10957-024-02582-4" target="_blank">Journal of Optimization Theory and Applications</a>, 204(16), 625-674, 2025.
-  <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/363835556" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/363835556" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2210.02531" target="_blank">ArXiv</a>,
 <p style="line-height: 1;"></p> 
   
