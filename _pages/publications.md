@@ -338,32 +338,32 @@ a:active {
 
 <font size=4> 
 <div style="text-align:justify"> 
-[4] Joydeep Dutta, Lafhim Lahoussine, Alain B. Zemkoho, and Shenglong Zhou, Nonconvex quasi-variational inequalities: stability analysis and application to numerical optimization, 
+[4] Shenglong Zhou, Alain Zemkoho, and Andrey Tin,  BOLIB 2019: Bilevel Optimization LIBrary of Test Problems Version 2, 2019. 
+<a style="font-style: italic; color:#015697"   href="https://www.springer.com/gp/book/9783030521189" target="_blank">Bilevel optimization: advances and next challenges</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://biopt.github.io/files/Paper.pdf" target="_blank">BiOpt</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/338375731" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1812.00230" target="_blank">ArXiv</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://biopt.github.io/bolib/" target="_blank">Code</a> 
+  
+[3] Joydeep Dutta, Lafhim Lahoussine, Alain B. Zemkoho, and Shenglong Zhou, Nonconvex quasi-variational inequalities: stability analysis and application to numerical optimization, 
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1007/s10957-024-02582-4" target="_blank">Journal of Optimization Theory and Applications</a>, 204(16), 625-674, 2025.
   <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/363835556" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2210.02531" target="_blank">ArXiv</a>,
 <p style="line-height: 1;"></p> 
   
 
-[3] Alain Zemkoho and   Shenglong Zhou, Theoretical and numerical comparison of the KKT and value function reformulations in bilevel optimization,
+[2] Alain Zemkoho and   Shenglong Zhou, Theoretical and numerical comparison of the KKT and value function reformulations in bilevel optimization,
 <a style="font-style: italic; color:#015697" href="https://doi.org/10.1007/s10589-020-00250-7" target="_blank">Computational Optimization and Application</a>, 78, 625-674, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/340769764" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2004.10830" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
-[2] Andreas Fischer, Alain Zemkoho, and   Shenglong Zhou, Semismooth Newton-type method for bilevel optimization: Global convergence and extensive numerical experiments,
+[1] Andreas Fischer, Alain Zemkoho, and   Shenglong Zhou, Semismooth Newton-type method for bilevel optimization: Global convergence and extensive numerical experiments,
 <a style="font-style: italic; color:#015697" href="https://www.tandfonline.com/doi/full/10.1080/10556788.2021.1977810" target="_blank"> Optimization Methods and Software</a>, 1-35, 2021. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/337943979" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1912.07079" target="_blank">ArXiv</a> 
 <p style="line-height: 1;"></p>
     
-[1] Shenglong Zhou, Alain Zemkoho, and Andrey Tin,  BOLIB 2019: Bilevel Optimization LIBrary of Test Problems Version 2, 2019. 
-<a style="font-style: italic; color:#015697"   href="https://www.springer.com/gp/book/9783030521189" target="_blank">Bilevel optimization: advances and next challenges</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://biopt.github.io/files/Paper.pdf" target="_blank">BiOpt</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/338375731" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/1812.00230" target="_blank">ArXiv</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://biopt.github.io/bolib/" target="_blank">Code</a> 
-
 </div></font>
 
 
@@ -372,15 +372,16 @@ a:active {
 <font size=4> 
 <div style="text-align:justify"> 
 
-[4] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Federated reinforcement learning for resource allocation in V2X networks, 
-<a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10683304" target="_blank">2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)</a>, 1-6, 2024. 
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/384350685" target="_blank">RG</a>
-<p style="line-height: 1;"></p>
- 
-[3] Shenglong Zhou, Kaidi Xu, and Geoffrey Ye Li, Communication-efficient decentralized federated learning via one-bit compressive sensing, 
+
+[4] Shenglong Zhou, Kaidi Xu, and Geoffrey Ye Li, Communication-efficient decentralized federated learning via one-bit compressive sensing, 
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/10683577" target="_blank">2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring) </a>, 2024. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/373526540" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2308.16671" target="_blank">ArXiv</a>
+<p style="line-height: 1;"></p>
+
+[3] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Federated reinforcement learning for resource allocation in V2X networks, 
+<a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10683304" target="_blank">2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)</a>, 1-6, 2024. 
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/384350685" target="_blank">RG</a>
 <p style="line-height: 1;"></p>
 
 [2] Ouya Wang, Shenglong Zhou, and Geoffrey Ye Li, Effective adaptation into new environment with few shots: Applications to OFDM receiver design,
