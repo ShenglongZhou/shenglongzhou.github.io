@@ -223,29 +223,30 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/Tracy-Wang7/PISA" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
 
-[12] Shenglong Zhou and Geoffrey Ye Li, Federated learning via inexact ADMM,
+[12] Shan Sha, Shenglong Zhou, Xin Wang, Lingchen Kong, Geoffrey Ye Li, Decentralized federated learning by partial message exchange, accepted by
+<a style="font-style: italic; color:#015697"  href="https://shenglongzhou.github.io/publications/" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>, 2026.
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/401428955" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2603.01730" target="_blank">ArXiv</a>
+<p style="line-height: 1;"></p>
+
+[11] Shenglong Zhou and Geoffrey Ye Li, Federated learning via inexact ADMM,
 <a style="font-style: italic; color:#015697"  href="https://ieeexplore.ieee.org/document/10040221" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>, 45, 9699-9708, 2023. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/360164168" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2204.10607" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/FedADMM" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
   
-[11] Shenglong Zhou and Geoffrey Ye Li, FedGiA: An efficient hybrid algorithm for federated learning,
+[10] Shenglong Zhou and Geoffrey Ye Li, FedGiA: An efficient hybrid algorithm for federated learning,
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/10106001" target="_blank">IEEE Transactions on Signal Processing </a>, 71, 1493-1508, 2023.
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/360353524" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2205.01438" target="_blank">ArXiv</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://github.com/ShenglongZhou/FedGiA" target="_blank">Code</a>
 <p style="line-height: 1;"></p> 
 
-[10] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Neural collapse based deep supervised federated learning for signal detection in OFDM systems,
+[9] Kaidi Xu, Shenglong Zhou, and Geoffrey Ye Li, Neural collapse based deep supervised federated learning for signal detection in OFDM systems,
 <a style="font-style: italic; color:#015697" href="https://ieeexplore.ieee.org/document/11494976" target="_blank">IEEE Transactions on Signal Processing</a>, 74, 1778-1788, 2026. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/401622696" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2506.19476" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
-
-[9] Shan Sha, Shenglong Zhou, Xin Wang, Lingchen Kong, Geoffrey Ye Li, Decentralized federated learning by partial message exchange, 2026.
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/401428955" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2603.01730" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
   
 [8] Shan Sha, Shenglong Zhou, Lingchen Kong, and Geoffrey Ye Li, Sparse decentralized federated learning, 
