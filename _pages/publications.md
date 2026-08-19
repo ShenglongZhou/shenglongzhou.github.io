@@ -28,7 +28,7 @@ a:active {
 
 <font size=4>
 <div style="text-align:justify"> 
-[8] Shenglong Zhou, Shuai Li, Hui Zhang, and Ziyan Luo, Sharp-peak functions for exactly penalizing binary integer programming, 2025. 
+[8] Shenglong Zhou, Shuai Li, Hui Zhang, and Ziyan Luo, Sharp-peak functions for exactly penalizing binary integer programming, minor revised by <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://shenglongzhou.github.io/publications/" target="_blank">Mathematical Programming</a>, 2026. 
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://www.researchgate.net/publication/395115093" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#015697" href="https://arxiv.org/abs/2509.00895" target="_blank">ArXiv</a>
 <p style="line-height: -0.5"></p>
